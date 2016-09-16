@@ -8,6 +8,12 @@ int main(){
 	for(int i = 0; i < 10; i++){
 		std::cout << "Woah woah Woaheeeoooh Woaheeeoooh Aheoeoooohh" << std::endl;
 		
+
+	int i = 0;
+
+	while (i < 10)
+	{
+		std::cout << "This thing never ends....why!?" << endl;
 	}
 	return 0;
 }
