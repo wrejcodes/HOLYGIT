@@ -14,6 +14,7 @@ int main(){
 	while (i < 10)
 	{
 		std::cout << "This thing never ends....why!?" << endl;
+		// working as intended
 	}
 	return 0;
 }
